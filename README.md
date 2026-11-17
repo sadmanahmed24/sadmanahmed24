@@ -2,121 +2,81 @@
 
 ### Computer Science & Engineering Student | Aspiring Software Engineer
 
-I'm an undergraduate CSE student at **American International University-Bangladesh (AIUB)**, passionate about software development, problem-solving, and building practical applications.
+I'm currently pursuing my Bachelor's degree in Computer Science & Engineering at **American International University-Bangladesh (AIUB)**.
 
-I enjoy exploring how software systems work, developing applications, and continuously improving my technical skills through hands-on projects.
-
----
+I'm interested in software engineering, application development, problem-solving, and building practical solutions through technology.
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying Computer Science & Engineering at AIUB.
+- 🎓 Computer Science & Engineering student at AIUB.
 - 💻 Working with Java, C++, C#, Python, and SQL.
-- 🗄️ Exploring Object-Oriented Programming and Database Management Systems.
-- 🚀 Building desktop applications and practical software projects.
-- 📚 Strengthening my foundations in Data Structures, Algorithms, and Software Engineering.
-- 🎯 Aspiring to become a professional Software Engineer.
+- 🗄️ Interested in Object-Oriented Programming and Database Management.
+- 🚀 Developing practical applications and academic software projects.
+- 📚 Currently strengthening my knowledge of Data Structures, Algorithms, and Software Engineering.
+- 🎯 Aspiring to become a Software Engineer.
 
----
+## 🛠️ Technologies & Tools
 
-## 🛠️ Tech Stack & Tools
+**Programming Languages**
+- C++
+- Java
+- C#
+- Python
+- SQL
 
-### Programming Languages
+**Databases**
+- Oracle Database
+- Microsoft SQL Server
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=cpp,java,cs,python](https://skillicons.dev/icons?i=cpp,java,cs,python)" /> \</p>
-
-### Databases
-
-\<p>   \<img src="[https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)" /> \</p>
-
-### Development Tools
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,visualstudio](https://skillicons.dev/icons?i=git,github,vscode,visualstudio)" /> \</p>
-
----
+**Development Tools**
+- Git & GitHub
+- Visual Studio
+- Visual Studio Code
+- IntelliJ IDEA
 
 ## 🚀 Featured Projects
 
-### 1. SkillHub – Freelance Marketplace Management System
+### 1. SkillHub – Freelance Marketplace
+A C# desktop application designed to connect clients and freelancers through a centralized freelance marketplace.
 
-A C# Windows Forms desktop application designed to connect clients with freelancers in the software and technology services industry.
+**Technologies:** C#, Windows Forms, SQL Server
 
-**Key features:**
-
-- Client and freelancer management.
-- Service listings and order management.
-- Simulated payments and earnings.
-- Reviews, disputes, and administration.
-
-**Tech Stack:** C# · Windows Forms · SQL Server
-
-🔗 [View Project](https://github.com/sadmanahmed24/SkillHub)
+[View Repository](https://github.com/sadmanahmed24/SkillHub)
 
 ### 2. Library Management System
+A Java-based application for managing library operations, demonstrating Object-Oriented Programming concepts and database integration.
 
-A Java console-based application developed to manage books, members, and library borrowing operations using Object-Oriented Programming principles.
+**Technologies:** Java, Oracle Database, JDBC
 
-**Key concepts:**
-
-- Encapsulation, inheritance, abstraction, and polymorphism.
-- Book and member management.
-- Book issuing and returning.
-- Oracle Database integration using JDBC.
-
-**Tech Stack:** Java · OOP · Oracle Database · JDBC
-
-🔗 [View Project](https://github.com/sadmanahmed24/Library-Management-System)
+[View Repository](https://github.com/sadmanahmed24/Library-Management-System)
 
 ### 3. Employee Management System
+A desktop application focused on employee record management and database operations.
 
-A C# Windows Forms application combining employee management functionality with login, registration, and CRUD operations.
+**Technologies:** C#, Windows Forms, SQL Server
 
-**Tech Stack:** C# · Windows Forms · SQL Server
-
-🔗 [View Project](https://github.com/sadmanahmed24/25-62451-2-Merge_CRUD_Login-)
-
----
+[View Repository](https://github.com/sadmanahmed24/25-62451-2-Merge_CRUD_Login-)
 
 ## 📂 Other Projects
 
-| Project                     | Description                                          | Technology     |
-| --------------------------- | ---------------------------------------------------- | -------------- |
-| Login & Registration System | User registration and login application              | C#, SQL Server |
-| AI Doorbell                 | Python-based doorbell project                        | Python         |
-| SkillHub Group Project      | Collaborative development of a freelance marketplace | C#             |
+- [Login & Registration System](https://github.com/sadmanahmed24/-25-62451-2-_Login_System)
+- [AI Doorbell](https://github.com/sadmanahmed24/Ai-doorbell)
 
-🔗 [Explore All My Repositories](https://github.com/sadmanahmed24?tab=repositories)
-
----
+[Explore All Repositories](https://github.com/sadmanahmed24?tab=repositories)
 
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
 - Advanced Object-Oriented Programming
 - Database Management Systems
-- Software Engineering and Design
+- Software Engineering
 - Backend Development
-- Full-Stack Application Development
+- Full-Stack Development
+
+## 🤝 Let's Connect
+
+- GitHub: [@sadmanahmed24](https://github.com/sadmanahmed24)
 
 ---
 
-## 📊 GitHub Statistics
-
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=sadmanahmed24&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=sadmanahmed24\&show_icons=true\&hide_border=true)" height="165" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sadmanahmed24&layout=compact&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=sadmanahmed24\&layout=compact\&hide_border=true)" height="165" />
-\</p>
-
----
-
-## 🤝 Connect With Me
-
-\<p>
-&#x20; \<a href="[https://github.com/sadmanahmed24](https://github.com/sadmanahmed24)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-\</p>
-
-I'm always interested in learning, building, and collaborating on meaningful software projects.
-
-**Always Learning · Always Building · Always Improving**
+*Always learning. Always building. Always improving.*
